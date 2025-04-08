@@ -1,6 +1,8 @@
-#   Sıla Pekşen
+# Sıla Pekşen
 
 - A second year Computer Engineering Student at Istanbul Aydin University
+- e-mail : slpkn503@gmail.com
+- LinkedIn : https://www.linkedin.com/in/sila-peksen-aa0322289/
 
 <!--
 **silapeksen/silapeksen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
