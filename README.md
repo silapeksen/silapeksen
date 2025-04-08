@@ -1,4 +1,4 @@
-###### Sıla Pekşen
+#   Sıla Pekşen
 
 - A second year Computer Engineering Student at Istanbul Aydin University
 
