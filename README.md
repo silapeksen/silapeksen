@@ -1,4 +1,6 @@
-## Hi there 👋
+## Sıla Pekşen
+
+- A second year Computer Engineering Student at Istanbul Aydin University
 
 <!--
 **silapeksen/silapeksen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
