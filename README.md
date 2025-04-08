@@ -2,6 +2,7 @@
 
 - A second year Computer Engineering Student at Istanbul Aydin University
 - Loc : Istanbul
+- Mostly working on : Java, MySQL
 - e-mail : slpkn503@gmail.com
 - LinkedIn : https://www.linkedin.com/in/sila-peksen-aa0322289/
 
