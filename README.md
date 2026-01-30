@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sıla%20Pekşen&fontSize=40&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f3a,50:1e3c72,100:2a5298&height=200&section=header&text=Sıla%20Pekşen&fontSize=40&fontColor=ffffff"/>
 
 </div>
 
@@ -22,20 +22,10 @@ I'm currently building real-world data analysis projects using Python while lear
 
 ---
 
-### 🛠 Tech Stack
-
-- Python  
-- Pandas  
-- Matplotlib  
-- Java  
-- MySQL  
-
----
-
 ### 📫 Connect with me
 
 - Email: slpkn503@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/sila-peksen-aa0322289/
+- LinkedIn: https://www.linkedin.com/in/sila-peksen
 
 ---
 
