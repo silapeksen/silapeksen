@@ -1,24 +1,42 @@
-# Sıla Pekşen
+<div align="center">
 
-- A third year Computer Engineering Student at Istanbul Aydin University
-- Loc : Istanbul
-- Mostly working on : Java, MySQL
-- e-mail : slpkn503@gmail.com
-- LinkedIn : https://www.linkedin.com/in/sila-peksen-aa0322289/
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sıla%20Pekşen&fontSize=40&fontColor=ffffff"/>
 
--->INTERESTED IN DATA SCIENCE AND ENGINEERING :))
+</div>
 
-<!--
-**silapeksen/silapeksen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, I'm Sıla!
 
-Here are some ideas to get you started:
+🎓 Computer Engineering student (English)  
+📍 Istanbul, Turkey  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently building real-world data analysis projects using Python while learning Data Science foundations through professional certifications.
+
+---
+
+### 🚀 What I'm working on
+
+- 📊 Data Analysis projects (Python, Pandas, Matplotlib)  
+- 🧠 Learning Data Science & Machine Learning  
+- 💻 Backend & database projects (Java, MySQL)  
+- 📈 Improving statistics and analytical thinking  
+
+---
+
+### 🛠 Tech Stack
+
+- Python  
+- Pandas  
+- Matplotlib  
+- Java  
+- MySQL  
+
+---
+
+### 📫 Connect with me
+
+- Email: slpkn503@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/sila-peksen-aa0322289/
+
+---
+
+⭐ *Currently focused on becoming a Data Analyst / Data Scientist through hands-on projects.*
