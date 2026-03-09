@@ -16,8 +16,8 @@ I'm currently building real-world data analysis projects using Python while lear
 ### 🚀 What I'm working on
 
 - 📊 Data Analysis projects (Python, Pandas, Matplotlib)  
-- 🧠 Learning Data Science & Machine Learning  
-- 💻 Backend & database projects (Java, MySQL)  
+- 🧠 Learning Data Science, Machine Learning, Data Engineering 
+- 💻 Backend and database projects (Java, MySQL)  
 - 📈 Improving statistics and analytical thinking  
 
 ---
@@ -29,4 +29,4 @@ I'm currently building real-world data analysis projects using Python while lear
 
 ---
 
-⭐ *Currently focused on becoming a Data Analyst / Data Scientist through hands-on projects.*
+⭐ *Currently focused on becoming a Data Scientist / Data Engineer through hands-on projects.*
